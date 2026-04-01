@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">multiApp</string>
+    <string name="enviar">Enviar</string>
+    <string name="resultado">Resultado</string>
+    <string name="Sorteio">Sorteio</string>
+    <string name="Limpa">Limpa</string>
+    <string name="textoCampo">-</string>
+</resources>
